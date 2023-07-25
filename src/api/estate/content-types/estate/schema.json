@@ -4,7 +4,8 @@
   "info": {
     "singularName": "estate",
     "pluralName": "estates",
-    "displayName": "Estate"
+    "displayName": "Estate",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
